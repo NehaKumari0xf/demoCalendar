@@ -1,0 +1,18 @@
+.calendar {
+    width: 60px;
+    height: 60px;
+    
+}
+.calendar th {
+    width: 60px;
+    height: 60px;
+    border: 1px solid black;
+}
+.calendar td div {
+    width: 60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
